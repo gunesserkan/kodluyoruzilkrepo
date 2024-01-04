@@ -7,13 +7,13 @@ Dizini ilk elemanı olan 7 kök kabul edilir
 2.Adım: 5 root'dan(7) küçük olduğu için sola
 
 	
-		 7
-		/
-       5
+                  7
+                 /
+                5
 
 3. Adım: 1 root'dan(7) küçük olduğu için sola ve 5'ten de küçük olduğu için sol en alta gider.
 
-			7
+            7
 	       /
 	      5
 	     /
