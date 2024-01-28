@@ -26,7 +26,7 @@ SELECT COUNT(*) FROM country
 WHERE length(country)=5
 ```
 
-Soru 4: city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
+Soru 5: city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
 ```
 SELECT COUNT(*) FROM city
