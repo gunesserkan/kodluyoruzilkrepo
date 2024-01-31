@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde patika.dev eğitimleri kapsamında gerçekleştirdiğim ödev uygulamalarını barındırıyor.
 
 ![github](repo.PNG)
 
